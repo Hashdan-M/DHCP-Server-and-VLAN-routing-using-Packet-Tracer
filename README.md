@@ -17,7 +17,7 @@ obtain IP addresses and other network configuration details from a DHCP server.
 Step 1: Add Devices to the Workspace
 1. Open Cisco Packet Tracer.
 2. From the End Devices section, drag and drop the following devices onto the workspace:
-- Add PCs for each VLAN/subnet (e.g., three PCs for this homelab).
+- Add PCs for each VLAN/subnet (e.g., three PCs for this homelab).https://github.com/Hashdan-M/DHCP-Server-and-VLAN-routing-using-Packet-Tracer/tree/main
 - Add a Server to configure as the DHCP server.
 3. From the Network Devices section, drag and drop:
 - Drag a Router (e.g., 2911 or 1941) into the workspace.
@@ -36,6 +36,7 @@ Access the Switch:
 - Select the CLI (Command Line Interface) tab.
 Create VLANs:
 - Enter global configuration mode
-Switch>enable
-Switch#configure terminal
-Switch(config)#
+  
+'Switch>enable'
+'Switch#configure terminal'
+'Switch(config)#'
