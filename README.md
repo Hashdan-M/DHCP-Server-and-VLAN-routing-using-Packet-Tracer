@@ -225,9 +225,7 @@ Each PC receives a dynamic IP from the DHCP server based on its VLAN. Inter-VLAN
 ## 🧰 Tools Used
 
 - Cisco Packet Tracer
-- Cisco 2911/1941 Router
-- Cisco 2960 Switch
-- PCs and Server (from End Devices)
+- Cisco 2911/1941 Router, Cisco 2960 Switch, PCs and Server (from End Devices)
 
 ---
 
